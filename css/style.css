@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+html,
+body,
+.wrap {
+  width: 100%;
+}
+.wrap {
+  width: 100%;
+}
+.wrap .header {
+  height: 2.25333333rem;
+}
+.wrap .header ul {
+  height: 1.12rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0.50666667rem;
+}
+.wrap .header ul li {
+  font-size: 0.4rem;
+  line-height: 1.12rem;
+  font-weight: 800;
+}
+.wrap .header ul li img {
+  width: 0.42666667rem;
+  height: 0.4rem;
+}
+.wrap .header .nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0.32rem;
+}
+.wrap .header .nav input {
+  width: 6.25333333rem;
+  height: 0.8rem;
+  border: 0;
+  background: #EEEFF0;
+  border-radius: 0.13333333rem;
+  text-align: center;
+}
+.wrap .header .nav img {
+  width: 0.69333333rem;
+  height: 0.57333333rem;
+}
+.wrap .bodyer .swiper-container {
+  width: 100%;
+  height: 4.01333333rem;
+}
+.wrap .bodyer .swiper-container .swiper-wrapper {
+  width: 300%;
+  height: 4.01333333rem;
+}
+.wrap .bodyer .swiper-container .swiper-wrapper .swiper-slide {
+  width: 33.3%;
+  height: 4.01333333rem;
+}
+.wrap .bodyer .swiper-container .swiper-wrapper .swiper-slide img {
+  width: 100%;
+  height: 4.01333333rem;
+}
+.wrap .bodyer p {
+  font-size: 0.4rem;
+  font-weight: 800;
+  padding-top: 1.26666667rem;
+  padding-left: 0.34666667rem;
+}
+.wrap .bodyer dl {
+  width: 4.96rem;
+  height: 4.22666667rem;
+  float: left;
+}
+.wrap .bodyer dl dt img {
+  width: 4.96rem;
+  height: 2.8rem;
+}
+.wrap .bodyer dl dd h6 {
+  font-size: 0.42666667rem;
+  font-weight: 400;
+  padding-left: 0.26666667rem;
+}
+.wrap .bodyer dl dd h5 {
+  font-size: 0.4rem;
+  font-weight: 400;
+  padding-left: 0.26666667rem;
+}
